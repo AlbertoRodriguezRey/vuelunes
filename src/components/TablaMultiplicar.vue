@@ -104,7 +104,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 .tabla-container {
     min-height: 100vh;
     background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
